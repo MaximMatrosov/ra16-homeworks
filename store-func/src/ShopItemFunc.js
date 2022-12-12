@@ -1,4 +1,3 @@
-import './ShopItemFunc.css';
 import PropTypes from 'prop-types';
 
 function ShopItemFunc({ item }) {
